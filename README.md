@@ -1,6 +1,6 @@
 # Kalamos InkSDK
 
-Private, reusable Android pen input and rendering modules extracted from the current Kalamos
+Reusable Android pen input and rendering modules extracted from the current Kalamos
 Notes implementation. Notes already uses these same module contracts/providers. This is a source
 SDK, not AndroidX Ink or a manufacturer SDK, and does not include Notes' notebook/editor engine.
 
@@ -63,4 +63,4 @@ Do not deliver one contact through both paths. The modified KOReader demonstrate
 Public stylus features depend on hardware/firmware reporting standard Android input. This does not
 guarantee low-latency vendor modes on every e-ink tablet or universal palm/eraser support. Physical
 latency, pressure, lifecycle and panel acceptance belong to the owner. See module LICENSE/NOTICE
-files for AGPL-3.0-or-later and third-party terms. Keep this repository private.
+files for AGPL-3.0-or-later and third-party terms. Do not commit credentials, machine-specific paths or private user data.

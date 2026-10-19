@@ -1,6 +1,6 @@
 # Source verification — 19 October 2026
 
-Private standalone source; no sibling checkout, private notebooks, API credentials or certificates.
+Standalone source; no sibling checkout, private notebooks, API credentials or certificates.
 
 Independent AAR builds and native unit tests pass:device-api15, Standard6, Bigme21 (42 total,
 zero failures/errors/skips). Includes five new Standard graphics/input tests for capture-only,

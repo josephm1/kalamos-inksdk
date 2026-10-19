@@ -4,9 +4,9 @@
   "files": {
     ".gitignore": "99e63abe7361a099bef407c9497fc56957ab7f8e4a05d28defd8aeda973d399f",
     "AGENTS.md": "a472338cf1d0af9e0a9895a5ea2fbd9903af70f41bc9aa471de1ea9d704a1d46",
-    "HANDOVER.md": "cd9514c1c96315466751aeac2d467f0e0c4e6c9eec84f802a278232fd84c6de8",
-    "README.md": "786c4387ea2480382bd2d64889cae094f54f31be39336272a7852c000cbcf818",
-    "VERIFICATION.md": "d2d1136a517b0fcc9fc993ee4d0077f3817461dc2c058f633f239e899df7f6aa",
+    "HANDOVER.md": "5db95b9a199ae700fb48ea7cd139bb2a1f9910ba913e610927ee08f401e37df6",
+    "README.md": "746b5460805a2e8067aaf9dbcc023b8e27a04ca07f4d10d4de58343b7faff095",
+    "VERIFICATION.md": "f73b57012dbc7ae54bc46dea8e67eb57d7c9691b3e141c87ad0b10375e179113",
     "build.gradle.kts": "c4ed1b6681ff8658a1ebf301379d8e133683fd5dc57cb9995be9dba2d134cbf2",
     "devices/bigme/LICENSE": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
     "devices/bigme/NOTICE.md": "49181126de336dbd0d36819035a7e53657d02dc08293f27f39196c5db03c77c5",
