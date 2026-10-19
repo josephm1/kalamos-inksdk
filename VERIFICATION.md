@@ -9,3 +9,9 @@ Standard uses public Android stylus input. Bigme method behavior/cadence remains
 The extracted source is the same selected API/providers used by current Notes and modified reader.
 Generic KOReader transport and source packaging are tested separately in kalamos-koreader.
 This is source SDK publication, not a device acceptance claim or Maven release.
+
+## Attribution update — 19 October 2026
+
+Documentation/licence-only update: upstream credits, full licence texts and component scopes
+checked. Ink modules are GPL-3.0-only; reader AGPL and launcher/JNI MIT terms stay separate.
+No runtime source changed; previous behavior/build results above remain historical evidence.
