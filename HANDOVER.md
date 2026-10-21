@@ -1,3 +1,13 @@
+## 21 October 2026 — Per-client delayed overlay replay disabled
+
+Synced the small Bigme provider fix verified by the Notes owner: disable the optional firmware
+idle recommit immediately after connect, before activating input/overlay. Notes already owns the
+local erase refresh; the service's independent replay caused a later whole-panel flash. The owner
+confirmed the flash stopped with the updated Notes build. Input gating, package display policy,
+waveforms, capture cadence and other apps' clients remain unchanged. Missing optional firmware
+API logs a warning without preventing writing. No Notes app/model code is included in this SDK.
+Other devices/firmware and other host applications retain their own physical acceptance needs.
+
 ## Upstream attribution and ink licensing — 19 October 2026
 
 Added prominent original-project credit and licence scope. Ink modules now use GPL-3.0-only;
